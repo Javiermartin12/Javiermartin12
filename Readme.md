@@ -19,7 +19,7 @@
 <a href="https://www.hackerrank.com/profile/javiermartinrui1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/javiermartinrui1" height="30" width="40" /></a>
 </p>
 
-<img src="https://camo.githubusercontent.com/719e41283cdcd51d4a9f720c51b87f191b8525e007c0b99305072a15daa5cc7a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d566963746f724a61757265677569266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJauregui&amp;layout=compact" ">
+
 
 
 
