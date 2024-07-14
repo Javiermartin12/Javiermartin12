@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1 year ago.<br>🔭 I’m currently working on Netflix clon.<br>📚 I'm currently learning Testing and Next.<br>🎯 Goals: I dream of leading a development team.<br>💬 Ask me about JS, TS, React...etc.<br>⚡ Fun fact I think I am so funny.</p>
+<p align="left">🔭 I’m currently working on Netflix clon.<br>📚 I'm currently learning Testing and Next.<br>🎯 Goals: I dream of leading a development team.<br>💬 Ask me about JS, TS, React...etc.<br>⚡ Fun fact I think I am so funny.</p>
 
 ###
 
