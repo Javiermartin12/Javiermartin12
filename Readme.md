@@ -83,7 +83,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=springboot" height="40" alt="springboot logo"  />
+    <img src="https://skillicons.dev/icons?i=sp" height="40" alt="springboot logo"  />
     <img width="12" />
 
 
