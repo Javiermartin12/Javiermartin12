@@ -79,7 +79,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=springboot" height="40" alt="springboot logo"  />
+    <img width="12" />
+
+
 </div>
 
 ###
