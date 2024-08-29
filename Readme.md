@@ -125,6 +125,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -137,6 +139,7 @@
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img width="12" />
 </div>
 
 ###
