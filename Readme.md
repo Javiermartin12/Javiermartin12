@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Bookify.<br>📚 I'm currently learning Testing and Next.<br>🎯 Goals: I dream of leading a development team.<br>💬 Ask me about JS, TS, React...etc.<br>⚡ Fun fact I think I am so funny.</p>
+<p align="left">🔭 My best app right now is Bokify.<br>📚 I'm currently learning Testing.<br>🎯 Goals: I dream of leading a development team.<br>💬 Ask me about anyone language.<br>⚡ Fun fact I think I am so funny.</p>
 
 ###
 
@@ -105,14 +105,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-</div>
-
-###
-
 <h2 align="left">DevOps</h2>
 
 ###
@@ -123,6 +115,11 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
